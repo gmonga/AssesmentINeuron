@@ -17,5 +17,5 @@ class Assesment:
 
 if __name__ == "__main__":
     a=Assesment()
-    a.readFile('abc.txt','placement ','screening')
+    a.readFile('example.txt','placement','screening')
 
